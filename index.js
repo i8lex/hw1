@@ -1,7 +1,5 @@
-let name = prompt("Please enter your name");
+let name = prompt("Please enter your username");
 
-let string = (`"Hello, ${name}! How are you?"`);
-
-alert(string);
+alert (`Hello, ${name}! How are you?`);
 
 
